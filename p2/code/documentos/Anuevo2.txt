@@ -1,0 +1,7 @@
+
+Esto es un ejemplo en Español para Las que Tika detecte el idioma. Número
+Juan Jesús don don don don Quijote De la Mancha mancha luchemos pues en Normandía
+TASA
+Yo, Juan Gallo de Andrada, escribano de Cámara del Rey nuestro señor
+Las mujeres de Don Pelayo son temibles
+ejemplos: Las La El Ellos Nuestro

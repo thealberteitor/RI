@@ -1,0 +1,8 @@
+\select@language {spanish}
+\contentsline {section}{\numberline {0}Introducci\IeC {\'o}n}{3}{section.0}
+\contentsline {section}{\numberline {1}Opci\IeC {\'o}n -d}{3}{section.1}
+\contentsline {section}{\numberline {2}Opci\IeC {\'o}n -l}{4}{section.2}
+\contentsline {section}{\numberline {3}Opci\IeC {\'o}n -t}{5}{section.3}
+\contentsline {section}{\numberline {4}Opci\IeC {\'o}n -t -rminutiles}{7}{section.4}
+\contentsline {section}{\numberline {5}Nube de palabras}{7}{section.5}
+\contentsline {section}{\numberline {6}Compilaci\IeC {\'o}n}{7}{section.6}
